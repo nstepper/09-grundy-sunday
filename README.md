@@ -1,7 +1,6 @@
+# GrundySunday
 
-# 09-grundy-sunday
-
-A readme generator application that can quickly create a professional readme for a new project
+A command line application that can quickly generate a readme file.
 
 ## Table of Contents
 
@@ -14,11 +13,11 @@ A readme generator application that can quickly create a professional readme for
 
 ## Installation
 
-clone the repo thru github and run the application with node v16 and the command line of an integrated terminal. The command to start the application is  node.js 
+1. Clone the repo using the command: -git clone https://github.com/nstepper/09-grundy-sunday.git  2. The application can now be invoked using the command: - node index.js
 
 ## Usage
 
-to create a professional readme for your code repository
+It can be used for anything that needs a READme file
 
 ## License
 
@@ -28,12 +27,12 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-do a pull request and wait for approval
+I dont think this needs much, but feel free to sumbit a pull request for review
 
 ## Tests
 
-use a variety of alphanumeric inputs to ensure it generates a readme properly
+use the command - node index.js and if it works it works
 
 ## Questions
 
-If you have any questions or comments, please contact nstepper at nstepper@uw.edu.
+If you have any questions or comments, please contact nstepper at nstepper@outlook.com.
