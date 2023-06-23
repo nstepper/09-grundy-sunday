@@ -13,7 +13,11 @@ A command line application that can quickly generate a readme file.
 
 ## Installation
 
-1. Clone the repo using the command: -git clone https://github.com/nstepper/09-grundy-sunday.git  2. The application can now be invoked using the command: - node index.js
+1. Clone the repo using the command:
+
+  -git clone https://github.com/nstepper/09-grundy-sunday.git
+
+2. The application can now be invoked using the command: - node index.js
 
 ## Usage
 
@@ -31,7 +35,11 @@ I dont think this needs much, but feel free to sumbit a pull request for review
 
 ## Tests
 
-use the command - node index.js and if it works it works
+use the command 
+
+- node index.js
+
+and if it works it works
 
 ## Questions
 
